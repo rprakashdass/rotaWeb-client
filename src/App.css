@@ -1,0 +1,58 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+:root{
+/* --title: #130a1b; */
+/* --title: #8a2be2; */
+--title: #00d1b2;
+--sub-title: #a1c2bd;
+--text-color : #FEFFFE;
+}
+
+*{
+    color: #000;
+    /* margin: 20px 5px; */
+}
+
+html{
+    /* background-color:rgb(8, 7, 7); */
+}
+
+.app{
+    /* background-color: #f1f1f1;  */
+}
+
+button{
+    /* background-color: #04AA6D; */
+    background-color: #04AA6D;
+
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+/* Common Styles */
+.href{
+color: #fff;
+cursor: pointer;
+text-decoration: none;
+}
+
+.title{
+color: var(--title);
+align-content: center
+}
+
+.section-title {
+    font-weight: bolder;
+    font-size: xx-large;
+    color: var(--title);
+}
+
+.sub-title{
+    color: var(--sub-title);
+}
+
+.pointer{
+    cursor: pointer;
+}
