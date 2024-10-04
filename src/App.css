@@ -10,6 +10,7 @@
 
 *{
     color: #000;
+    overflow-x: hidden;
     /* margin: 20px 5px; */
 }
 
