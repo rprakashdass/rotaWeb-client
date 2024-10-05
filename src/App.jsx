@@ -1,4 +1,4 @@
-import './App.css'
+import './styles/App.css'
 import Form from './Form/Form'
 import FormStarter from './Form/FormStarter'
 

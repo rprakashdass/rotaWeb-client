@@ -11,6 +11,14 @@ const Home = () => {
                         Get Started!.
                     </a>
                 </button>
+                <div className="card">
+                    <div className="card-item">
+                        card 1
+                    </div>
+                    <div className="card-item">
+                        card 2
+                    </div>
+                </div>
             </div>
         </> 
     )
