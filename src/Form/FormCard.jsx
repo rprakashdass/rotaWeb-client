@@ -1,7 +1,7 @@
 const FormCard = ({question}, {placeholder}) => {
     return (
         <>
-            <div className="container-sm">
+            <div className="container-sm ms-dm-3">
                 <form>
                     <label className="mt-3" style={{minHeight: "40vh"}}>
                         <p>{ question }</p>
