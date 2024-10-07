@@ -1,7 +1,7 @@
 const Home = () => {
     return (
         <>
-            <div className="container-fluid m-5">
+            <div className="container-fluid">
                 <h1 className="" style={{color: "#f57388"}}>Rotaract Club of Sri Shakthi Institute of Engineering & Technology</h1>
                 <p>
                     This is an Test application which is running on onreader.com

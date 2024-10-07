@@ -31,7 +31,7 @@ const Form = () => {
     
     const [ index, setIndex ] = useState(1);
     return (
-        <div className="container-fluid row text-white me-5 ms-3 pt-5 text-black" style={containerStyle}>
+        <div className="container-fluid row text-white pt-5 text-black" style={containerStyle}>
             <div className="col-md-3"></div>
             <div className="col-md-6 rounded sh">
                 <div className="overflow-hidden">
