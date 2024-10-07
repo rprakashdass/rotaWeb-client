@@ -1,0 +1,9 @@
+.card:hover{
+    z-index: 999;
+    cursor: pointer;
+    background-color: var(--card-bg);
+}
+
+.card{
+    background-color: var(--card-bg);
+}

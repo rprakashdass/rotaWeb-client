@@ -6,6 +6,7 @@
 --title: #00d1b2;
 --sub-title: #a1c2bd;
 --text-color : #FEFFFE;
+--card-bg: #425da5;
 }
 
 *{
@@ -37,6 +38,10 @@ button:hover{
 color: #fff;
 cursor: pointer;
 text-decoration: none;
+}
+
+.card-bg-color{
+    background-color: #425da5;
 }
 
 .title{
